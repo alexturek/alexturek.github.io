@@ -1,0 +1,55 @@
+---
+title: Effective code review conversations
+---
+
+# Having good code reviews
+These are the explicit goals of a code review. These shouldn't be controversial; they're what virtually 100% of software engineers would agree with.
+
+1. Defect-free code
+2. Clear code
+3. Ship the feature or bugfix
+
+But there are other implicit goals of a code review; these are determined by the approach the reviewers and submitter take into it.
+
+# Approach 1: Argue about the code
+### Secondary goals
+1. Make all code exactly the way you would have written it.
+2. Feel smarter than others.
+
+### What it looks like
+1. Artifacts get attributed to a person (e.g. `Your code`, `Your comment`). [2]
+2. Comments and feedback use zero-sum languge (e.g. `I concede`, `You win`, `You're wrong`).
+3. Somebody keeps repeating their argument in different ways.
+4. Follow-on commenters de-escalate the conversation.
+5. Generalization - `never do X`, `always do Y`
+6. Criticism without clear alternatives. (`Please make this clearer`)
+
+### What it feels like
+1. You feel attacked by comments or responses.
+2. You dislike submitting PRs, or being asked to review them, because they make you mad.
+3. You feel like your code has been mangled, or your opinion has been dismissed as irrelevant.
+
+# Approach 2: Conversation
+### Secondary goals
+1. Make code some happy medium of clear, for all future readers.
+2. Learn something.
+
+### What it looks like
+1. Almost every comment is a question (e.g. `Why use...`, `How does this work?`)
+2. People use happy emojis. 👍 and 😄
+3. Most conversations are short - either the fix is obvious and accepted, or the commenter is happy with the submitter's response.
+4. There are specific code examples, especially for proposed refactors.
+5. Nobody is always right, or always wrong. In a long PR, there might be 90% accepted comments, and a few that all parties agree to disregard.
+
+### What it feels like
+1. Comments make you happy, because they're a chance to clean up your code.
+2. You feel like you learn something after submitting or reviewing a pull request.
+3. When the PR merges, you feel ownership over the code.
+
+
+
+
+# Links
+* [[0]](https://speakerdeck.com/ohrite/better-code-review)
+* [[1]](https://github.com/18F/development-guide/issues/5#issuecomment-151734042)
+* [[2]](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
