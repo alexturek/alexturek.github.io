@@ -8,3 +8,5 @@ client/src/libs/
 .rebooted
 .bundle
 
+Gemfile.lock
+_site/
