@@ -1,5 +1,7 @@
 - how to influence large groups of people at a company
 - how this ties to sales work. understanding of customer's priorities
+  - active listening
+  - explaining your position
 - convincing a leader to change
 - convincing a large group to change
   - explicit presentation (talk/doc)
