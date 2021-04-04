@@ -5,7 +5,7 @@ TLDR:
 - Figure out which works for you based on your team.
 - Never do Rebase And Merge.
 
-Strongly recommended pre-read: https://medium.com/@elliotchance/comparison-of-merging-strategies-in-github-2f948c3b8fdc (If you're in a hurry, scroll to the comparison table.)
+[Strongly recommended pre-read](https://medium.com/@elliotchance/comparison-of-merging-strategies-in-github-2f948c3b8fdc) (If you're in a hurry, scroll to the comparison table.)
 
 ### Never do Rebase And Merge
 
