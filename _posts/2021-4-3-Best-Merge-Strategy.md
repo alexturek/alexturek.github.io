@@ -98,9 +98,11 @@ Uh oh! Which one was "unrelated"? Is one of these right and the other isn't? ðŸ¤
 Something that you may do for the benefit of your PR reviewer is break a change up into multiple PRs for separate review.
 This is common for people building complex features, where you may have the following 3 PRs
 
-1. (branch: `replace-new-with-old-1`, base:`master`) Refactor existing code
-2. (branch: `replace-new-with-old-2`, base:`replace-new-with-old-1`) Add new feature
-3. (branch: `replace-new-with-old-3`, base:`replace-new-with-old-2`) Delete old feature
+```
+replace-new-with-old-1 -> master                  Refactor existing code
+replace-new-with-old-2 -> replace-new-with-old-1  Add new feature
+replace-new-with-old-3 -> replace-new-with-old-2  Delete old feature
+```
 
 Reviewing these as separate PRs _can_ be easier for the reviewer, as each PR is doing exactly one thing. And if you're doing small PRs, it's likely that you'll be breaking them up into good logical groupings. But squashing the first PR means you now have all the first PR's commits to try to excise from PR #2.
 
