@@ -1,3 +1,5 @@
+People care strongly and oppositely about this.
+
 TLDR:
 
 - Squash is best if most commit messages aren't useful, because the team doesn't expect to need that.
