@@ -48,3 +48,5 @@ Your job early on isn't to magically avoid all the First-Time Learnies (TM). It'
 You can still try to be productive here. Don't treat your output as meaningless. Make sure you're working on things that matter. But unless you're a few years into your career, every good company knows that they're hiring an investment, not a senior engineer.
 
 And then you get to start saying something like this to the junior engineers you're working with.
+
+_Thank you to Corrina Fabre for some suggestions and editing._
