@@ -16,30 +16,30 @@ But early on in your career, learning can be awful. You struggle for days trying
 
 I see junior engineers get sidelined from that good, hard stuff, and they often have two failure modes:
 
-1. ## "Oh No! I'm Stuck" 
-   ### **So focused on beating themselves up that they aren't learning.**
+## 1. Beating themselves up about having to learn
+aka **"Oh No! I'm Stuck"**
 
-    This is understandable, and I remember my first job and the wild emotional swings I went through when I struggled for days or weeks to overcome some seemingly simple problem.
+This is understandable, and I remember my first job and the wild emotional swings I went through when I struggled for days or weeks to overcome some seemingly simple problem.
 
-    Talk to your mentor or a more senior engineer, be honest with them, ask for feedback. 9 times out of 10, you're doing fine.
+Talk to your mentor or a more senior engineer, be honest with them, ask for feedback. 9 times out of 10, you're doing fine.
 
-    Or, make sure you're writing lessons down. Keep a scratchpad of "Today I Learned." _Here's how I split an array in JavaScript! Here's how I search a git repo for a string!_ Set a reminder at a monthly or quarterly interval and revisit that file: seeing that whole list will help you push back your imposter syndrome.
+Or, make sure you're writing lessons down. Keep a scratchpad of "Today I Learned." _Here's how I split an array in JavaScript! Here's how I search a git repo for a string!_ Set a reminder at a monthly or quarterly interval and revisit that file: seeing that whole list will help you push back your imposter syndrome.
 
-    **Senior engineers**: When I see somebody, for example, panicking about not updating sprint tasks fast enough, I try to take them aside and ask what they've been learning. Focusing on their success helps them realize it exists.
-    
-2. ## "Fake It Till You Make It" 
-   ### Rejecting feedback from more experienced people trying to help them learn.**
+**Senior engineers**: When I see somebody, for example, panicking about not updating sprint tasks fast enough, I try to take them aside and ask what they've been learning. Focusing on their success helps them realize it exists.
 
-    You can and will learn plenty on your own. You will also learn more, not less, from other people as you progress in your career.
+## 2. Refusing to learn from more experienced people
+aka **"Fake It Till You Make It"**
 
-    An immature person starts a disagreement with a zero-sum mentality, assuming that if someone has a better suggestion, that means they "lose" something. If you catch yourself working hard to defend your technical choices, or designs, or code, ask some questions.
+You can and will learn plenty on your own. You will also learn more, not less, from other people as you progress in your career.
 
-    * To them: _How'd you learn this? What's an example of X being better than Y in the real world?_
-    * To yourself: _What do I know that this person doesn't? What do they know that I don't? Can I find at least one person who agrees with me?_
+An immature person starts a disagreement with a zero-sum mentality, assuming that if someone has a better suggestion, that means they "lose" something. If you catch yourself working hard to defend your technical choices, or designs, or code, ask some questions.
 
-    **Senior engineers**: This failure mode can be painful and frustrating. It teaches me patience, and then how to communicate better, and then finally that maybe I'm taking my job too seriously and I should get a drink at 2pm.
+* To them: _How'd you learn this? What's an example of X being better than Y in the real world?_
+* To yourself: _What do I know that this person doesn't? What do they know that I don't? Can I find at least one person who agrees with me?_
 
-    When I encounter one of these people, I usually treat it as an expensive (for the rest of the team) but necessary learning exercise for everybody. They're going to make a mess, they're going to ship some garbage code, and I'm not going to stop it. Usually the right strategy is containment. Give them a playground to "prove" their ideas out and in 6 months or a year, they and the entire team will be struggling with their work. It sucks that you have to maintain it, but hopefully nobody on that team will ever repeat that type of mistake.
+**Senior engineers**: This failure mode can be painful and frustrating. It teaches me patience, and then how to communicate better, and then finally that maybe I'm taking my job too seriously and I should get a drink at 2pm.
+
+When I encounter one of these people, I usually treat it as an expensive (for the rest of the team) but necessary learning exercise for everybody. They're going to make a mess, they're going to ship some garbage code, and I'm not going to stop it. Usually the right strategy is containment. Give them a playground to "prove" their ideas out and in 6 months or a year, they and the entire team will be struggling with their work. It sucks that you have to maintain it, but hopefully nobody on that team will ever repeat that type of mistake.
 
 # Embrace The Hard Stuff
 
