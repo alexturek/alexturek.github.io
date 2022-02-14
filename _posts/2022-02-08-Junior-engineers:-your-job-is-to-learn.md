@@ -32,7 +32,9 @@ aka **"Fake It Till You Make It"**
 
 You can and will learn plenty on your own. You will also learn more, not less, from other people as you progress in your career.
 
-An immature person starts a disagreement with a zero-sum mentality, assuming that if someone has a better suggestion, that means they "lose" something. If you catch yourself working hard to defend your technical choices, or designs, or code, ask some questions.
+An immature person starts a disagreement with a zero-sum mentality, assuming that if someone has a better suggestion, that means they "lose" something. A mature person understands that their knowledge is finite, and they can always learn from people around them. The best senior engineers I've worked with are open about not knowing stuff - they know it doesn't matter or make them look bad to other senior folks.
+
+If you catch yourself working hard to defend your technical choices, or designs, or code, ask some questions.
 
 * To them: _How'd you learn this? What's an example of X being better than Y in the real world?_
 * To yourself: _What do I know that this person doesn't? What do they know that I don't? Can I find at least one person who agrees with me?_
