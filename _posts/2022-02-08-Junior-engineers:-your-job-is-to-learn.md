@@ -71,4 +71,4 @@ You can still try to be productive here. Don't treat your output as meaningless.
 
 And then you get to start saying something like this to the junior engineers you're working with.
 
-_Thank you to Corrina Fabre for some suggestions and editing._
+_Thank you to Corrina Fabre, Lotus Tan, and Steven Danneman for reviews and suggestions._
