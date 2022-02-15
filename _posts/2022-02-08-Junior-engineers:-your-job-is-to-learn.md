@@ -24,7 +24,6 @@ But early on in your career, learning can be awful. You struggle for days trying
 |:--:|
 | _So... the first learning period is incredibly hard_ |
 
-
 # When You Don't Learn
 
 I see junior engineers get sidelined from that good, hard stuff, and they often have two failure modes:
@@ -32,11 +31,13 @@ I see junior engineers get sidelined from that good, hard stuff, and they often 
 ## 1. Beating themselves up about having to learn
 aka **"Oh No! I'm Stuck"**
 
-This is understandable, and I remember my first job and the wild emotional swings I went through when I struggled for days or weeks to overcome some seemingly simple problem.
+This is understandable, and I remember my first job and the wild emotional swings I went through when I struggled for days or weeks to overcome some seemingly simple problem. It's made worse because you don't know what you "should" know and what you can "legitimately" ask for help with, meaning you don't get unstuck. This means you get blocked at your actual job. Eventually some senior engineer may realize something's off and come ask you how they can help, but in the meantime you can help yourself a bit.
 
-Talk to your mentor or a more senior engineer, be honest with them, ask for feedback. 9 times out of 10, you're doing fine.
+* **Fix: get somebody else's view.** Talk to your mentor or a more senior engineer, be honest with them, ask for feedback. 9 times out of 10, you're doing fine.
 
-Or, make sure you're writing lessons down. Keep a scratchpad of "Today I Learned." _Here's how I split an array in JavaScript! Here's how I search a git repo for a string!_ Set a reminder at a monthly or quarterly interval and revisit that file: seeing that whole list will help you push back your imposter syndrome.
+* **Fix: write down what you're learning.** Keep a scratchpad of "Today I Learned." _Here's how I split an array in JavaScript! Here's how I search a git repo for a string!_ Set a reminder at a monthly or quarterly interval and revisit that file: seeing that whole list will help you push back your imposter syndrome.
+
+* **Fix: ask great questions.** I can't improve on Julia Evans' amazing posts, [How to ask good questions](https://jvns.ca/blog/good-questions/), and [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/). The best thing you can do is read these and then force yourself to use some of her strategies, and things will get easier _fast_.
 
 **Senior engineers**: When I see somebody, for example, panicking about not updating sprint tasks fast enough, I try to take them aside and ask what they've been learning. Focusing on their success helps them realize it exists.
 
