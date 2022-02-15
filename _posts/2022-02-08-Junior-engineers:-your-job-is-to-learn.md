@@ -28,7 +28,7 @@ But early on in your career, learning can be awful. You struggle for days trying
 
 I see junior engineers get sidelined from that good, hard stuff, and they often have two failure modes:
 
-## 1. Beating themselves up about having to learn
+## 1. Beating yourself up about having to learn
 aka **"Oh No! I'm Stuck"**
 
 This is understandable, and I remember my first job and the wild emotional swings I went through when I struggled for days or weeks to overcome some seemingly simple problem. It's made worse because you don't know what you "should" know and what you can "legitimately" ask for help with, meaning you don't get unstuck. This means you get blocked at your actual job. Eventually some senior engineer may realize something's off and come ask you how they can help, but in the meantime you can help yourself a bit.
