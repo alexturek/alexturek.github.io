@@ -33,29 +33,35 @@ aka **"Oh No! I'm Stuck"**
 
 This is understandable, and I remember my first job and the wild emotional swings I went through when I struggled for days or weeks to overcome some seemingly simple problem. It's made worse because you don't know what you "should" know and what you can "legitimately" ask for help with, meaning you don't get unstuck. This means you get blocked at your actual job. Eventually some senior engineer may realize something's off and come ask you how they can help, but in the meantime you can help yourself a bit.
 
-* **Fix: get somebody else's view.** Talk to your mentor or a more senior engineer, be honest with them, ask for feedback. 9 times out of 10, you're doing fine.
+**Fix: get somebody else's view.** Talk to your mentor or a more senior engineer, be honest with them, ask for feedback. 9 times out of 10, you're doing fine.
 
-* **Fix: write down what you're learning.** Keep a scratchpad of "Today I Learned." _Here's how I split an array in JavaScript! Here's how I search a git repo for a string!_ Set a reminder at a monthly or quarterly interval and revisit that file: seeing that whole list will help you push back your imposter syndrome.
+**Fix: write down what you're learning.** Keep a scratchpad of "Today I Learned." _Here's how I split an array in JavaScript! Here's how I search a git repo for a string!_ Set a reminder at a monthly or quarterly interval and revisit that file: seeing that whole list will help you push back your imposter syndrome.
 
-* **Fix: ask great questions.** I can't improve on Julia Evans' amazing posts, [How to ask good questions](https://jvns.ca/blog/good-questions/), and [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/). The best thing you can do is read these and then force yourself to use some of her strategies, and things will get easier _fast_.
+**Fix: ask great questions.** I can't improve on Julia Evans' amazing posts, [How to ask good questions](https://jvns.ca/blog/good-questions/), and [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/). The best thing you can do is read these and then force yourself to use some of her strategies, and things will get easier _fast_.
 
 **Hey senior engineers**: When I see somebody, for example, panicking about not updating sprint tasks fast enough, I try to take them aside and ask what they've been learning. Focusing on their success helps them realize it exists.
 
-## 2. Refusing to learn from more experienced people
+## 2. Refusing to learn from others
 aka **"Fake It Till You Make It"**
 
 You can and will learn plenty on your own. You will also learn more, not less, from other people as you progress in your career.
 
-An immature person starts a disagreement with a zero-sum mentality, assuming that if someone has a better suggestion, that means they "lose" something. A mature person understands that their knowledge is finite, and they can always learn from people around them. The best senior engineers I've worked with are open about not knowing stuff - they know it doesn't matter or make them look bad to other senior folks.
+An immature person starts a disagreement with a zero-sum mentality, assuming that if someone has a better suggestion, that means they "lose" something. These are discussions that convert to arguments, as at least one person starts trying to defend themselves, consciously or not.
 
-If you catch yourself working hard to defend your technical choices, or designs, or code, ask some questions.
+A mature person understands that their knowledge is finite, and they can always learn from people around them. The best senior engineers I've worked with are open about not knowing stuff - they know it doesn't matter or make them look bad to other senior folks.
+
+**Fix: recognize feeling defensive.** Arguments are usually obvious, because they're stressful. That stress might be enough of a signal for most people - if you're feeling amped up about what should be a collaborative technical discussion, figure out why. Sometimes I catch myself trying to defend beliefs I don't really hold that strongly. When I can shake a little clarity loose, I can recognize that comes from me arguing to the emotions rather than the tech. "Self, why are you worked up about this? Do you really feel that strongly about this, or are you trying to be right?"
+
+**Fix: ask questions.** Start trying to figure out what the disconnect is. The beauty of this strategy is that it works even when you're deep in an argumentative headspace, and whether you're actually correct or not. You don't have to calm down, you just have to fake it.
 
 * To them: _How'd you learn this? What's an example of X being better than Y in the real world?_
 * To yourself: _What do I know that this person doesn't? What do they know that I don't? Can I find at least one person who agrees with me?_
 
+Here, you're either setting up a really clear rebuttal, if you're right... or you're finding out the actual gaps in your knowledge. And someone asking lots of questions and really listening to the answers tends to calm arguments back down into discussions.
+
 **Hey senior engineers**: This failure mode can be painful and frustrating. It teaches me patience, and then how to communicate better, and then finally that maybe I'm taking my job too seriously and I should get a drink at 2pm.
 
-When I encounter one of these situations, I usually treat it as an expensive (for the rest of the team) but necessary learning exercise for everybody. They're going to make a mess, they're going to ship some garbage code, and I'm not going to stop it. Usually the right strategy is containment. Give them a playground to "prove" their ideas out and in 6 months or a year, they and the entire team will be struggling with their work. It sucks that you have to maintain it, but hopefully nobody on that team will ever repeat that type of mistake.
+When I encounter one of these situations, I usually treat it as an expensive (for the rest of the team) but necessary learning exercise for everybody. The person who isn't listening is going to make a mess, they're going to ship some garbage code, and I'm not going to stop it. Usually the right strategy is containment. Give them a playground to "prove" their ideas out and in 6 months or a year, they and the entire team will be struggling with their work. It sucks that you have to maintain it, but hopefully nobody on that team will ever repeat that type of mistake.
 
 # Embrace The Hard Stuff
 
