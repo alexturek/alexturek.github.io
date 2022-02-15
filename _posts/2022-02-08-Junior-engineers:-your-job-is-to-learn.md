@@ -4,7 +4,7 @@ A very common misconception among junior engineers is that they should be as pro
 
 The second most common thing to do with technology is have to learn some new tech stack or language. The first - I hope! - is building, or dreaming of building something, something valuable to the world. But you can't do that until you've learned at least one tech well. _(This post doesn't even address the hard part nobody talks about: how to work on a team to build software. Another day.)_
 
-| ## Alternating between learning and doing |
+| Alternating between learning and doing |
 | <img src="../images/learning-vs-doing.png" alt="alternating between learning and doing" width="400"/> |
 |:--:|
 | _You are constantly changing mode between learning and doing_ |
@@ -15,14 +15,14 @@ Just like everything in life, learning is easier with practice. After ~15 years 
 >
 > (This is when the pleasantness fades)
 
-| ## Difficulty of learning over time |
+| Difficulty of learning over time |
 | <img src="../images/getting-better-at-learning.png" alt="learning gets easier" width="400"/> |
 |:--:|
 | _Learning gets easier, the more you do it_ |
 
 But early on in your career, learning can be awful. You struggle for days trying to do something that takes more senior engineers 5 minutes to solve. You get misled by StackOverflow posts, or can't figure out the right search term, or wander into a completely new concept (_"what is a cluster??"_) that you never learned before, and suddenly have to stop building and start learning from 0. Some weeks, you go down 10 dead ends without actually figuring out your problem. I went through it and I remember how frustrating that is!
 
-| ## Effort expended on learning |
+| Effort expended on learning |
 | <img src="../images/cost-of-learning.png" alt="the first learning hump is the most difficult" width="400"/> |
 |:--:|
 | _So... the first learning period is incredibly hard_ |
