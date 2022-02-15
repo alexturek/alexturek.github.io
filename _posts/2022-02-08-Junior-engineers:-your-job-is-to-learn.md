@@ -55,7 +55,7 @@ If you catch yourself working hard to defend your technical choices, or designs,
 
 **Hey senior engineers**: This failure mode can be painful and frustrating. It teaches me patience, and then how to communicate better, and then finally that maybe I'm taking my job too seriously and I should get a drink at 2pm.
 
-When I encounter one of these people, I usually treat it as an expensive (for the rest of the team) but necessary learning exercise for everybody. They're going to make a mess, they're going to ship some garbage code, and I'm not going to stop it. Usually the right strategy is containment. Give them a playground to "prove" their ideas out and in 6 months or a year, they and the entire team will be struggling with their work. It sucks that you have to maintain it, but hopefully nobody on that team will ever repeat that type of mistake.
+When I encounter one of these situations, I usually treat it as an expensive (for the rest of the team) but necessary learning exercise for everybody. They're going to make a mess, they're going to ship some garbage code, and I'm not going to stop it. Usually the right strategy is containment. Give them a playground to "prove" their ideas out and in 6 months or a year, they and the entire team will be struggling with their work. It sucks that you have to maintain it, but hopefully nobody on that team will ever repeat that type of mistake.
 
 # Embrace The Hard Stuff
 
