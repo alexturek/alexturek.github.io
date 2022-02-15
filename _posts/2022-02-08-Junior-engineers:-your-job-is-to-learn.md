@@ -39,7 +39,7 @@ This is understandable, and I remember my first job and the wild emotional swing
 
 * **Fix: ask great questions.** I can't improve on Julia Evans' amazing posts, [How to ask good questions](https://jvns.ca/blog/good-questions/), and [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/). The best thing you can do is read these and then force yourself to use some of her strategies, and things will get easier _fast_.
 
-**Senior engineers**: When I see somebody, for example, panicking about not updating sprint tasks fast enough, I try to take them aside and ask what they've been learning. Focusing on their success helps them realize it exists.
+**Hey senior engineers**: When I see somebody, for example, panicking about not updating sprint tasks fast enough, I try to take them aside and ask what they've been learning. Focusing on their success helps them realize it exists.
 
 ## 2. Refusing to learn from more experienced people
 aka **"Fake It Till You Make It"**
@@ -53,7 +53,7 @@ If you catch yourself working hard to defend your technical choices, or designs,
 * To them: _How'd you learn this? What's an example of X being better than Y in the real world?_
 * To yourself: _What do I know that this person doesn't? What do they know that I don't? Can I find at least one person who agrees with me?_
 
-**Senior engineers**: This failure mode can be painful and frustrating. It teaches me patience, and then how to communicate better, and then finally that maybe I'm taking my job too seriously and I should get a drink at 2pm.
+**Hey senior engineers**: This failure mode can be painful and frustrating. It teaches me patience, and then how to communicate better, and then finally that maybe I'm taking my job too seriously and I should get a drink at 2pm.
 
 When I encounter one of these people, I usually treat it as an expensive (for the rest of the team) but necessary learning exercise for everybody. They're going to make a mess, they're going to ship some garbage code, and I'm not going to stop it. Usually the right strategy is containment. Give them a playground to "prove" their ideas out and in 6 months or a year, they and the entire team will be struggling with their work. It sucks that you have to maintain it, but hopefully nobody on that team will ever repeat that type of mistake.
 
