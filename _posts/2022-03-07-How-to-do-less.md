@@ -10,7 +10,7 @@ There's two loose definitions of prioritization.
 | Prioritization(1) | Prioritization(2) |
 | <img src="../images/prioritization-1.png" alt="Prioritization: Ordering a todo list" width="200"/> | <img src="../images/prioritization-2.png" alt="Prioritization(2): Only doing some of the list" width="200"/> |
 |:--:|:--:|
-| _Why isn't this working?_ | _Get ready to disappoint some people!_ |
+| _Why isn't this working?_ | _Scary but necessary_ |
 
 You've already done (1). You've done (2) ... sort of. But somehow you're still underwater.
 
