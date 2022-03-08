@@ -8,7 +8,7 @@ There's two loose definitions of prioritization.
 2. **`Prioritization(2)`**: _Only doing the top item on the list._ You already have a giant todo list. Which thing are you actually going to finish?
 
 | Prioritization(1) | Prioritization(2) |
-| <img src="../images/prioritization-1.png" alt="Prioritization: Ordering a todo list" width="200"/> | <img src="../images/prioritization-1.png" alt="Prioritization(2): Only doing some of the list" width="200"/> |
+| <img src="../images/prioritization-1.png" alt="Prioritization: Ordering a todo list" width="200"/> | <img src="../images/prioritization-2.png" alt="Prioritization(2): Only doing some of the list" width="200"/> |
 |:--:|:--:|
 | _Why isn't this working?_ | _Get ready to disappoint some people!_ |
 
