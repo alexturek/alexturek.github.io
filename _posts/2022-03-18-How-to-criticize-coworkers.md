@@ -1,4 +1,3 @@
-# How to Criticize Coworkers
 
 _I originally wrote this as a doc, and did a talk w/ slides in Fall 2020 at Convoy._
 
