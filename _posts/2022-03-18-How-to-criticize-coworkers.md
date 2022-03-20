@@ -63,7 +63,7 @@ If they remember doing something that you're praising, they can associate praise
 They'll remember the next time that good behavior is an option.
 
 | Speeding up the feedback loop |
-| <img src="../images/feedback-time.png" alt="Tighten the feedback loop for people with timely criticism or praise." width="400"/> |
+| <img src="../images/feedback-time.png" alt="Tighten the feedback loop for people with timely criticism or praise." width="600"/> |
 |:--:|
 | _Tighten the feedback loop for people with timely criticism or praise._ |
 
