@@ -1,4 +1,15 @@
-TODO: Caveat: cis straight white dude in tech. there's better advice for people who might be experiencing racism, sexism, transphobia, etc (LINKS)
+From conversation today:
+
+* Caveat: cis straight white dude in tech. there's better advice for people who might be experiencing racism, sexism, transphobia, etc (LINKS)
+
+* A situation's fucked up. Somebody is mad/disappointed at someone else. How do you know if it's a you or them problem?
+  * "Describe what the camera would see" (SBI: B
+  * Context of situation (SBI: S)
+  * Who has more knowledge? Who has more power? Who should be responsible for a thing going well?
+  * If you were to go back and change one thing to make the situation, would it be your behavior or theirs?
+  * Are expectations reasonable? Were they communicated ahead of time?
+  * You aren't responsible for other peoples' emotions
+  * Who said what? Keep notes, write things down. Easier to distance yourself and understand (SBI: SB)
 
 # Is this a me problem, or a them problem?
 
@@ -54,6 +65,8 @@ Here is a small sampling of past conflicts I've had:
 ## Conflict sequence
 
 All these situations follow a rough sequence.
+
+![emoji representation of the following sequence](/images/me-or-them.png)
 
 1. I get riled up: some combo of sad, angry, guilty, or afraid. Fight-or-flight reactions might happen, or other physiological responses to conflict.
 2. After I can calm down, I work to figure out who's (most) right: me or them?
