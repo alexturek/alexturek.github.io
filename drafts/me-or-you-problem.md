@@ -52,9 +52,9 @@ If it's a **them** problem, then I can stop doubting myself, and worrying that I
 What matters here is understanding what's going on.
 I don't want to keep dealing with this same conflict forever, and I need to know the best way to avoid the next iteration.
 
-## A (short) history of conflict
+## Conflicts I've had
 
-Here is a small sampling of past conflicts I've had:
+Here is a small sampling of past (work) conflicts I've had:
 
 - A more senior engineer ignoring my feedback while we partnered on a project
 - A junior engineer on my team constantly dismissing or arguing with my advice
