@@ -11,6 +11,9 @@ From conversation today:
   * You aren't responsible for other peoples' emotions
   * Who said what? Keep notes, write things down. Easier to distance yourself and understand (SBI: SB)
 
+LOTUS COMMENT:
+so i think something that might resonate easier / flow more naturally is a 'what is conflict' > example sequence and example past scenarios > 'what to do in conflict' > understand situation > different options of how to think about it, then distill down into specifically the 'is this me or them' > break down how to do it "answering the question" > what to do about it
+
 # Is this a me problem, or a them problem?
 
 Software engineering is a job where the best-performing teams collaborate heavily.
@@ -95,18 +98,20 @@ Use 4 of the **5 Whys** - who, when, where, and what.
 
 _Note: Don't try to answer **why** for other people! Ascribing intent to others is a good way to get things wrong, in a way that escalates a conflict. Hell, sometimes it's the root cause of conflicts. Pay attention to when you're doing it, and stop._
 
-# Answering the question: me or them?
-
 ## Find reference points
 
-A strategy I use constantly is comparing situations that went well with situations that didn't.
+A strategy I use constantly is comparing situations that went well, avoiding conflicts, with situations that triggered them.
 What was different about these situations?
-Often it's the **who**, but sometimes it isn't.
-And it's not just enough to say which person I was interacting with, but what was specifically said.
 
 Maybe I used some different words between A and B, or maybe somebody else did.
 Did we skip an important part in the doc or conversation?
 Have I worked more with X than Y, and so the levels of automatic trust are higher?
+
+Is there a pattern of conflict that you find yourself in, or the other person does?
+Is this conflict unusual for you, or them?
+
+Outside stress can cause people to react differently to otherwise unremarkable input.
+Is something unusual going on in somebody’s life?
 
 ## Ask a third party
 
@@ -147,3 +152,8 @@ A conflict between peers is very different than between me, and say an intern.
 Even if they start a conflict, de-escalation and mitigation are my responsibility more than theirs.
 
 This doesn't just affect the "ok what do I do about it" part of dealing with a conflict, but also the "whose problem is this?" question.
+
+# Answering the question: me or them?
+
+There are too many permutations of conflicts to give some sort of one-size-fits-all flowchart.
+Instead, you’ll need to have multiple different strategies to exercise, that can help you have confidence in one answer or the other.
