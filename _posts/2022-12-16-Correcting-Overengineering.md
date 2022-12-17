@@ -14,8 +14,8 @@ But ultimately people gotta make certain mistakes themselves to really learn. Be
 
 We all do these, even people who have been doing it for 20 years. Hopefully when we're experienced we recognize that we're making the mistake sooner. Not always though!
 
-1. **Write it all at once.** "Fully" implementing some class or module, where you're adding a bunch of unused code. "Someday we'll need this," you think, not realizing how many times people will be looking at that code in the months and years to come not realizing it's completely unused. Those people will be mad at you! And those people might include you in the future!
-2. **Premature generalization.** Adding abstractions that aren't needed yet clarity when trying to figure out what your program does. E.g. "A calls B calls C calls D" and B or C are unused anywhere else, and mainly just proxy function calls. What are B and C doing besides hiding the fact that A depends on D? If you read a call stack that was 5 deep when it could be 1 or 2, how would you feel?
+1. **Write it all at once.** "Fully" implementing some class or module, where you're adding a bunch of code that isn't used yet. "Someday we'll need this," you think, not realizing how many times people will be looking at that code in the months and years to come not realizing it's completely unused. Those people will be mad at you! And those people might include you in the future!
+2. **Premature generalization.** Adding abstractions that aren't needed yet. For example, a function call stack like "A calls B calls C calls D" and B or C are unused anywhere else. What are B and C doing besides hiding some of the logic from A and D? If you read a call stack that was 5 deep when it could be 1 or 2, how would you feel?
 3. **Premature optimization**. Predicting the part of a program that needs to be fast, before you've run the whole thing and collected a lot of performance data. If this a brand new program, you're predicting a whole lot about the future, including how much latency or utilization is even going to matter.
 
 # Questions I'd ask
