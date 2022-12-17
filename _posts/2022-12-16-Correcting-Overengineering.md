@@ -4,7 +4,7 @@ When I think about overengineering, I think about a few specific coding habits t
 - You can demonstrate a better way to write the same code - maybe they'll understand the improvement of the simpler version.
 - You can try to compromise between a little and a lot of overengineering.
 
-But ultimately people gotta make certain mistakes themselves to really learn. Because overengineering isn't about technical knowledge as much as humility. Believing that you can predict the future, even several months out, with a high degree of clarity, before that's possible. Sometimes senior engineers _can_ do that effectively, but they believe they can predict even farther out, and fall into the same trap.
+Ultimately, overengineering isn't about technical skills. It's about hubris: believing that you can anticipate the distant future's needs, better than somebody closer to the moment they need the thing. Less experienced engineers believe that in a positive sense; thinking that adding code now is cheaper than later. More experienced engineers learn that adding things to a system is cheap compared to maintaining and removing things.
 
 # Classes of mistakes
 
