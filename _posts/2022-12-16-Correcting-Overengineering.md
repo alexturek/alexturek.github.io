@@ -1,7 +1,3 @@
-Somebody asked me for advice on how to give feedback to someone possibly over-building some code, and I ended up writing a lot!
-
-----
-
 When I think about overengineering, I think about a few specific coding habits that everybody does to some degree. And recognizing these is largely driven by experience, both messing up yourself and seeing other peoples' mistakes. So it's really hard to convince somebody without that experience that's what's happening.
 
 - You can ask questions that lead them to consider the future differently.
