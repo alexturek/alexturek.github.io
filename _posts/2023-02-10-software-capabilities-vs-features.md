@@ -1,8 +1,9 @@
 There's a lot of work invisible to end-users in software.
 A big time sink is extending the software's capabilities, which are non-user-visible technical infrastructure that allow the software to do more stuff.
 
-<a href="https://imgs.xkcd.com/comics/tasks.png"><img alt="" href="https://imgs.xkcd.com/comics/tasks.png"></img></a>
-_Obligatory XKCD on this_
+| <a href="https://imgs.xkcd.com/comics/tasks.png"><img alt="" src="https://imgs.xkcd.com/comics/tasks.png"></img></a> |
+|:--:|
+| _Source: XKCD_ |
 
 As somebody who works with or depends on software engineers, asking for time estimates on building new things can be a nerve-wracking experience.
 You can get a bunch of estimates back that are on the orders of hours or days, and then a surprise one that's weeks or months.
