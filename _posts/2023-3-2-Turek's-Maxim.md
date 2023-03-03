@@ -6,11 +6,11 @@ Sometimes the inputs to the decision were, in hindsight, wrong or incomplete. Yo
 
 And then some argumentative person, or a reasonable person having an argumentative day, will come along. They'll argue that Option B was always, obviously, the right answer. They won't read your old decision doc. They'll just bang the table and get mad that the past isn't different. And you might be tempted again, to write that status-quo-defending-doc.
 
-**And you shouldn't. Because otherwise you will be vulnerable to DA-DDOS (Dumb Ass [DDOS](https://en.wikipedia.org/wiki/Denial-of-service_attack)).**
+And you shouldn't. Because otherwise you will be vulnerable to DA-DDOS (Dumb Ass [DDOS](https://en.wikipedia.org/wiki/Denial-of-service_attack)).
 
 See, making decisions is hard. Complaining about the results of a decision is orders of magnitude easier.
 
-People love making low-effort arguments; and you don't owe them a high-effort response.
+**People love making low-effort arguments; and you don't owe them a high-effort response.**
 
 
 PostScript: Thanks Steven Danneman for the name. Makes me so proud!
