@@ -10,4 +10,7 @@ And then some argumentative person, or a reasonable person having an argumentati
 
 See, making decisions is hard. Complaining about the results of a decision is orders of magnitude easier.
 
-You don't owe people making cheap (for them) arguments, an expensive (for you) rationalization.
+People love making low-effort arguments; and you don't owe them a high-effort response.
+
+
+PostScript: Thanks Steven Danneman for the name. Makes me so proud!
