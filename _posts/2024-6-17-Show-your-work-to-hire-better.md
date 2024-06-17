@@ -52,9 +52,7 @@ After an interview, the interviewer writes feedback in this format.
 
 </div>
 <div class="section-img" style="max-width: 48%">
-
-![Structure of interview feedback](/images/hiring/interview-feedback.png)
-
+<img alt="Structure of interview feedback" src="/images/hiring/interview-feedback.png">
 </div>
 </div>
 
