@@ -35,10 +35,9 @@ This process starts at the point where all interviews (aka interview loop) have 
 # Interview feedback
 
 <div>
-<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
+<div class="section-text" style="max-width:40%; min-width: 500px" markdown="1">
 
 After an interview, the interviewer writes feedback in this format.
-
 
 > **I'm {inclined/not inclined} to hire {Candidate} for {Role}**
 >
@@ -82,9 +81,6 @@ Feedback is written from most to least granular (so, bottom of feedback to top),
 
 ----
 
-<div>
-<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
-
 **What's a signal?**
 
 Signals are company values, technical skills, or coworker qualities that the team/company have agreed are important, and the candidate demonstrated having or missing.
@@ -95,9 +91,6 @@ Some signals from technical interviews I've done in the past are:
 * \[Technical skills\] coding, architecture, debugging, use of metrics
 * \[Teamwork skills\] humility, mentorship, resolving conflict
 
-</div>
-<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
-
 **Examples from real interviews**
 
     + humble: one specific career failure, which was a toxic hire. "at amazon I argued for [good hiring]... [and then] I did something really stupid"
@@ -106,22 +99,13 @@ Some signals from technical interviews I've done in the past are:
 
     + ability to collaborate: Very focused on solving customer problems; worked closely with them to define project
 
-</div>
-</div>
-
 ----
-
-<div>
-<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
 
 **Which signals are important?**
 
 This is a hard question to answer; my instinct is that that's a function of lots of interview experience, and experience working with lots of different types of people.
 
 It's also specific to the role, level, team, and company. But broadly speaking, a key signal should be something that's (a) high impact on the candidate's performance and (b) you are confident you heard or saw in the interview.
-
-</div>
-<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
 
 **Examples from real interviews**
 
@@ -130,9 +114,6 @@ It's also specific to the role, level, team, and company. But broadly speaking, 
     key reason to hire: Hunger/Urgency. C was very focused on customer impact, delivering value quickly
 
     key reason not to hire: C was entirely focused on technology and implementation, and pretty unaware of people skills or business prioritization. This isn't uncommon for junior candidates, but would impose a hard limit on scope of impact
-
-</div>
-</div>
 
 # The debrief doc
 
