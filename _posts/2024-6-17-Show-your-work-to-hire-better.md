@@ -15,7 +15,11 @@ This process starts at the point where all interviews (aka interview loop) have 
 
 <div style="max-width: 700px">
 
+<div markdown="1">
+
 ![Interviewers write feedback; a bar-raiser writes a debrief doc; everybody reads the doc for the debrief and makes a hiring decision](/images/hiring/whole-process.png)
+
+</div>
 
 </div>
 
