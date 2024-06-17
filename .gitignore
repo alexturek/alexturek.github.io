@@ -8,6 +8,7 @@ _site
 Thumbs.db
 ehthumbs.db
 
-Gemfile.lock
+# Gemfile.lock
+# Checking in gemfile.lock to fix an ffi build error
 
 beautiful-jekyll-theme-*.gem
