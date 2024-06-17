@@ -35,7 +35,7 @@ This process starts at the point where all interviews (aka interview loop) have 
 # Interview feedback
 
 <div>
-<div class="section-text" style="max-width:40%; min-width: 200px">
+<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
 
 After an interview, the interviewer writes feedback in this format.
 
@@ -61,7 +61,7 @@ After an interview, the interviewer writes feedback in this format.
 </div>
 
 <div>
-<div class="section-text" style="max-width:40%; min-width: 200px">
+<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
 
 Each section is a conclusion. And each conclusion comes from the following section's data. This makes it easy to spot conclusions that don't follow the data, and which stage of the pipeline has an error.
 
@@ -73,7 +73,7 @@ Feedback is written from most to least granular (so, bottom of feedback to top),
 4. decision
 
 </div>
-<div class="section-img" style="max-width:48%">
+<div class="section-img" style="max-width:48%" markdown="1">
 
 ![Refining notes -> signals -> key signals -> decision](/images/hiring/interview-feedback-process.png)
 
@@ -83,7 +83,7 @@ Feedback is written from most to least granular (so, bottom of feedback to top),
 ----
 
 <div>
-<div class="section-text" style="max-width:40%; min-width: 200px">
+<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
 
 **What's a signal?**
 
@@ -96,7 +96,7 @@ Some signals from technical interviews I've done in the past are:
 * \[Teamwork skills\] humility, mentorship, resolving conflict
 
 </div>
-<div class="section-text" style="max-width:40%; min-width: 200px">
+<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
 
 **Examples from real interviews**
 
@@ -112,7 +112,7 @@ Some signals from technical interviews I've done in the past are:
 ----
 
 <div>
-<div class="section-text" style="max-width:40%; min-width: 200px">
+<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
 
 **Which signals are important?**
 
@@ -121,7 +121,7 @@ This is a hard question to answer; my instinct is that that's a function of lots
 It's also specific to the role, level, team, and company. But broadly speaking, a key signal should be something that's (a) high impact on the candidate's performance and (b) you are confident you heard or saw in the interview.
 
 </div>
-<div class="section-text" style="max-width:40%; min-width: 200px">
+<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
 
 **Examples from real interviews**
 
@@ -151,12 +151,12 @@ The debrief doc format is very similar to the single interview format, but begin
 ## Writing a debrief doc
 
 <div>
-<div class="section-text" style="max-width:40%; min-width: 200px">
+<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
 
 Reading multiple interviews' feedback in the standard structure makes it straightforward to spot common themes across interviews. This can be done rapidly with practice. 5 minutes is about the fastest I could ever manage, but 15-20 minutes was probably the norm.
 
 </div>
-<div class="section-img" style="max-width: 48%">
+<div class="section-img" style="max-width: 48%" markdown="1">
 
 ![collecting interview feedback into a debrief doc](/images/hiring/debrief-doc.png)
 
