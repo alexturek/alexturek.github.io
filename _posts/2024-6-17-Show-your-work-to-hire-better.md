@@ -34,9 +34,6 @@ This process starts at the point where all interviews (aka interview loop) have 
 
 # Interview feedback
 
-<div>
-<div class="section-text" style="max-width:40%; min-width: 500px" markdown="1">
-
 After an interview, the interviewer writes feedback in this format.
 
 > **I'm {inclined/not inclined} to hire {Candidate} for {Role}**
@@ -53,11 +50,8 @@ After an interview, the interviewer writes feedback in this format.
 >      + {Company value or job skill}: {a few words about how candidate demonstrated this}
 >      - {Company value or job skill}: {a few words about how candidate demonstrated this}
 
-</div>
-<div class="section-img" style="max-width: 48%">
+
 <img alt="Structure of interview feedback" src="/images/hiring/interview-feedback.png">
-</div>
-</div>
 
 <div>
 <div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
