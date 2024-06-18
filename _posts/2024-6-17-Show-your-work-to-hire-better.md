@@ -1,5 +1,3 @@
-# Show your work to hire better
-
 Here's a repeatable process for turning an interview, or a whole interview loop, into a hiring decision. This is a good process to start with when the whole hiring team can no longer fit in a single large conference room.
 
 > ### TL;DR
