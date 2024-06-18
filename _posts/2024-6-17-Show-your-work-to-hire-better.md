@@ -52,7 +52,7 @@ After an interview, the interviewer writes feedback in this format.
 <img alt="Structure of interview feedback" src="/images/hiring/interview-feedback.png">
 
 <div>
-<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
+<div class="section-text" markdown="1">
 
 Each section is a conclusion. And each conclusion comes from the following section's data. This makes it easy to spot conclusions that don't follow the data, and which stage of the pipeline has an error.
 
@@ -64,7 +64,7 @@ Feedback is written from most to least granular (so, bottom of feedback to top),
 4. decision
 
 </div>
-<div class="section-img" style="max-width:48%" markdown="1">
+<div class="section-img" markdown="1">
 
 ![Refining notes -> signals -> key signals -> decision](/images/hiring/interview-feedback-process.png)
 
@@ -127,12 +127,12 @@ The debrief doc format is very similar to the single interview format, but begin
 ## Writing a debrief doc
 
 <div>
-<div class="section-text" style="max-width:40%; min-width: 200px" markdown="1">
+<div class="section-text" markdown="1">
 
 Reading multiple interviews' feedback in the standard structure makes it straightforward to spot common themes across interviews. This can be done rapidly with practice. 5 minutes is about the fastest I could ever manage, but 15-20 minutes was probably the norm.
 
 </div>
-<div class="section-img" style="max-width: 48%" markdown="1">
+<div class="section-img" markdown="1">
 
 ![collecting interview feedback into a debrief doc](/images/hiring/debrief-doc.png)
 
