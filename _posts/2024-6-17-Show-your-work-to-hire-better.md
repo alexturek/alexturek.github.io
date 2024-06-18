@@ -1,6 +1,6 @@
 # Show your work to hire better
 
-Here's a repeatable process for turning an interview, or a whole interview loop, into a hiring decision.
+Here's a repeatable process for turning an interview, or a whole interview loop, into a hiring decision. This is a good process to start with when the whole hiring team can no longer fit in a single large conference room.
 
 > ### TL;DR
 > Interviewers refine raw notes into smaller sets of stronger signals, until the hiring decision feels obvious. A [bar-raiser](#bar-raisers) does the same thing with the feedback from each interview. And the bar-raiser and hiring manager make a final decision.
@@ -92,6 +92,9 @@ Some signals from technical interviews I've done in the past are:
     - effectively setting context: I had to probe to understand some of the product requirements (subscriber vs free model)
 
     + ability to collaborate: Very focused on solving customer problems; worked closely with them to define project
+
+{: .box-note}
+**A quick note on bias:** Bias in interviews is a whole other blog post, or a book. A quick way to remove bias based on the candidate's name or gender is to use the words `Candidate` (`C` for short), or the pronouns they/them.
 
 ----
 
