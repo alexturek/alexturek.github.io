@@ -10,9 +10,9 @@ I've been interviewing recently, and I've been asked about "a time you received 
 
 But a recent one that stuck with me was from a product manager - my partner on a small software team. She asked me to spend time on a presentation I didn't think was a high priority. I acknowledged the request, and put it on my todo list - near the bottom. I procrastinated on it, working on stuff that seemed to matter more. The day we had to present, I threw some crappy slides together. She (correctly) deleted them and pulled in some old material to cover, and then ended up doing the whole presentation herself.
 
-Her feedback to me the next day: Alex, you really let me down. Why didn't you do the slides?
-Me: I didn't think this presentation was very high priority, since I'm scrambling so hard to get us to launch this product on time.
-Her: _Then why didn't you tell me?_
+<br/> Her feedback to me the next day: Alex, you really let me down. Why didn't you do the slides?
+<br/> Me: I didn't think this presentation was very high priority, since I'm scrambling so hard to get us to launch this product on time.
+<br/> Her: _Then why didn't you tell me?_
 
 ----
 
