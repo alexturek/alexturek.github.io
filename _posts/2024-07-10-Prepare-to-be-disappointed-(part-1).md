@@ -1,3 +1,5 @@
+_I mean, first after reading this post, but then also something else._
+
 Hey! I know you're expecting something from me, by some date.
 
 You aren't going to get everything you want, so let's talk about it _right now_ so you can be disappointed _right now_. The alternative is: you're still going to be disappointed later, but it's going to be wayyy worse.
